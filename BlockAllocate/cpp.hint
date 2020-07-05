@@ -1,0 +1,2 @@
+#define BLOCKALLOCATE_API __declspec(dllexport)
+#define BLOCKALLOCATE_API __declspec(dllimport)
